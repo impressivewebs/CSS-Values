@@ -2,6 +2,8 @@
 
 CSS Values is a simple single page web app (SPA) that lets you search for almost any CSS property and get a simple list of possible values.
 
+**Now newly updated for 2020 with all CSS properties and values!**
+
 This GitHub repo does not have the code from the app, but will be used to report bugs, errors, omissions, incomplete info, etc. Below you'll find a description of how to use the app:
 
 * Type a CSS property name into the box. The page will automatically update as you type.
