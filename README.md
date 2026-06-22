@@ -1,4 +1,4 @@
-# [CSS Values](https://cssvalues.com)
+# [CSS Values](https://louislazaris.com/tools/cssvalues)
 
 CSS Values is a simple single page web app (SPA) that lets you search for almost any CSS property and get a simple list of possible values.
 
